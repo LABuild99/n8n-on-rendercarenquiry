@@ -1,5 +1,9 @@
-node_modules
 .git
 .gitignore
+node_modules
+*.log
+README.md
+.env
 Dockerfile
-npm-debug.log
+docker-compose.yml
+*.DS_Store

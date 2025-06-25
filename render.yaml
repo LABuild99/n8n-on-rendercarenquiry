@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: your-service-name
+    env: docker
+    dockerfilePath: Dockerfile
+    port: 5678
